@@ -1,21 +1,16 @@
-### Sports News - August 1, 2024
+### Latest Sports News - August 7, 2024
 
-1. **Inside the Olympic Village, Complete With Cardboard Beds and Inedible Food**
-   - The Olympics are the world’s biggest sporting event, but most star athletes live in communal accommodations befitting of college students.
-   - [Read more](https://www.nytimes.com/athletic/5671640/2024/08/01/olympic-village/)
+1. **[The U.S. Sprinter Gabby Thomas Wins Gold in Women’s 200-Meter Race](https://www.nytimes.com/athletic/5684773/2024/08/06/gabby-thomas-olympics-200m-final/)**
+   * Summary: America has a new track superstar, a columnist for The Athletic writes.
 
-2. **Why a Beloved Hockey Broadcaster Was Quietly Pulled Off the Air**
-   - Marek was one of SportsNet’s marquee talents, but his absence has been a mystery to fans.
-   - [Read more](https://www.nytimes.com/athletic/5673003/2024/08/01/jeff-marek-sportsnet-nhl-draft-removed/)
+2. **[U.S. Women’s Soccer Team Beats Germany in Olympic Semifinals](https://www.nytimes.com/athletic/5683594/2024/08/06/uswnt-germany-olympic-womens-soccer-semifinal/)**
+   * Summary: Sophia Smith’s goal in extra time gave the Americans a spot in their first Olympic gold medal match since 2012.
 
-3. **A Flurry of M.L.B Trades Are Overshadowed by the Lack of Stars on the Move**
-   - Many fans hoped their teams would make splashier deals by the trade deadline, but the quality of players on the market isn’t there, a columnist for The Athletic writes.
-   - [Read more](https://www.nytimes.com/athletic/5673041/2024/07/31/mlb-trade-deadline-recap-rosenthal/)
+3. **[The American Cole Hocker Pulls Off Gold Medal Upset in the 1,500-Meter Race](https://www.nytimes.com/athletic/5684698/2024/08/06/cole-hocker-mens-1500m-olympic-results/)**
+   * Summary: What was supposed to be a two-man battle turned into the surprise of the Paris Games.
 
-4. **Katie Ledecky and Leon Marchand Delivered a Magical Olympic Night**
-   - We can’t turn away when seemingly an entire country is serenading its 22-year-old hero atop the podium as the national anthem plays, a columnist for The Athletic writes.
-   - [Read more](https://www.nytimes.com/athletic/5673422/2024/07/31/leon-marchand-katie-ledecky-olympics-swimming-gold-medal/)
+4. **[How the Seahawks Snared the Youngest Head Coach in the N.F.L.](https://www.nytimes.com/athletic/5681571/2024/08/06/mike-macdonald-seattle-seahawks-ravens-john-schneider/)**
+   * Summary: Mike Macdonald once took out a $20,000 loan so he could pursue his dreams. Now, he’s hit the jackpot.
 
-5. **Why is the U.S. behind in the gold medal count? Look no further than the pool.**
-   - The era of American dominance in the pool might have given way to something that’s far more balanced across the world, a columnist for The Athletic writes.
-   - [Read more](https://www.nytimes.com/athletic/5674125/2024/08/01/team-usa-gold-medal-count-olympics-paris-swimming/)
+5. **[Lilia Vu Is an Olympian. Her Story Can Be Traced Back to One Daring Escape.](https://www.nytimes.com/athletic/5596918/2024/07/01/lilia-vu-olympics-golf/)**
+   * Summary: The golfer is representing the United States in the Olympics. For that dream to be possible, it took an improbable journey across the world.
