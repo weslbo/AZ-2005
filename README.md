@@ -15,5 +15,6 @@ Consider also following resource: https://learn.microsoft.com/en-us/semantic-ker
 
 - [Notebook 1](./demo_01.ipynb): General introduction to Semantic Kernel with some scenario's to test (plugins, chatbot, ....)
 - [Notebook 2](./demo_02.ipynb): Demo of getting recent news and the ability to store data in a file.
-- [Notebook 3](./demo_03.ipynb): This demo will showcase RAG patterns using Azure Cognitive Search
-- [Notebook 4](./demo_04.ipynb): - work in progress -
+- [Notebook 3](./demo_03.ipynb): This demo will showcase RAG patterns using Azure Cognitive Search (index custom data)
+- [Notebook 4](./demo_04.ipynb): This demo will showcase RAG patterns using Azure Cognitive Search (index PDF document)
+- [Notebook 5](./demo_05.ipynb): Running semantic kernel with local LLM's or SLM's
